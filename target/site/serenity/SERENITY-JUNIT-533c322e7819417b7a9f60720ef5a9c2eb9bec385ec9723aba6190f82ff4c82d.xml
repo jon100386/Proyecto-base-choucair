@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Academy Choucair" skipped="0" tests="1" time="31.92" timestamp="2020-12-29 02:32:39"><testcase name="Search for an automation course"><error message="Not a Map or List type: class java.lang.String" type="cucumber.runtime.CucumberException">Not a Map or List type: class java.lang.String</error><system-err>Not a Map or List type: class java.lang.String&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
